@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d9bab044eac7b51469ee242a1a7f2505
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circleHand: {fileID: 4553529590480086625, guid: 706d0262be11ea440a974bfdc031a39d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
