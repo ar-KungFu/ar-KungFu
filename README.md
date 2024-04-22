@@ -109,7 +109,7 @@ When the player completes the movement of his hand and triggers the cursor, the 
 
 ![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) ![image](https://s2.loli.net/2024/04/23/UHjX4RInmvdBNrW.gif)
 
-![image](https://s2.loli.net/2024/04/22/sXJaDlgSeEr6KGq.gif) 
+![image](https://s2.loli.net/2024/04/23/xdjXr5lOy8LTcCo.gif) 
 
 
 
