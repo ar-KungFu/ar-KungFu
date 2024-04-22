@@ -35,6 +35,7 @@
 1. Open the KungFu (Kung Fu) app, click to select the practice mode, and select the boxing method you want to practice.
 2. Click on the binocular rendering mode, insert the phone into the Holokit head-mounted display device and wear it
 3. Click the start button. After the countdown is over, follow the arrow you see to the blue avatar positioning point. Move your hands to follow the positioning mark to trigger special effects. At the same time, you can refer to the avatar in front for Tai Chi practice.
+
 ![image](https://s2.loli.net/2024/04/23/nVtNT9k1MIFaDuC.gif)
 ![image](https://s2.loli.net/2024/04/23/1HJmtcXTCznx7wg.gif)
 ![image](https://s2.loli.net/2024/04/23/LAyuXM94j1VU3Qw.gif)
@@ -48,6 +49,7 @@
 * [☯️ **Holokit software development kit**](https://github.com/holokit/holokit-unity-sdk)
 HoloKit is an optically clear mixed reality headset that transforms an iPhone into a powerful stereoscopic AR device. With the help of HoloKit Unity SDK, call its two core functions of stereoscopic rendering and hand tracking to develop martial arts AR experiences in Unity, which can be viewed through HoloKit head-mounted display devices.        
 Stereoscopic rendering is a core feature of the SDK that allows stereoscopic images to be displayed on the iPhone screen. By connecting your iPhone to HoloKit, you can get an immersive audio-visual experience in the world of AR martial arts. Leveraging the Apple Vision framework, the SDK detects the user's hand gestures. Together with the LiDAR depth sensor, the iPhone is used to track the 3D position of the user's hand to trigger Tai Chi special effects.
+
 ![image](https://s2.loli.net/2024/04/19/RlbIvGm3qe1SHWP.gif)      
 
 
@@ -61,7 +63,9 @@ Stereoscopic rendering is a core feature of the SDK that allows stereoscopic ima
 * ☯️****Motion Capture****   
  ****Virtual Human Production****
 In the follow-up training mode, a virtual human is used to lead the training, and [Move One](https://www.move.ai/single-camera) is used to dynamically capture the martial arts master, and the high-standard and high-standard Tai Chi movements are used as the virtual human skeleton. Based on the motion, import it into blender for animation simulation, bake the animation and then import it into unity for development. Combining traditional design with modern design, design a virtual human image, and bind it with bones to realize virtual human Tai Chi training.
+
 ![image](https://s2.loli.net/2024/04/18/V7lNFJuZcYRx6eQ.gif) ![image](https://s2.loli.net/2024/04/18/PtHi5kChjq2KOpB.png)
+
  ![image](https://s2.loli.net/2024/04/18/t7YuV5lyEjdDWsg.gif) ![image](https://s2.loli.net/2024/04/19/CVbWLA41Ejnxre2.gif) 
  
  
@@ -72,6 +76,7 @@ Depending on the motion capture model we are using, we have multiple anchor poin
 * ****☯️Art Production****   
      ****Model Making****                                                                                                              
 When playing the game, the player moves his hand following the cursor. When the cursor moves to a fixed point and stops, the position relationship between the player's hand and the cursor is calculated, OnCollisionEnter is used to trigger, and the nodes are connected to form a cursor dissipation animation.
+
 ![image](https://s2.loli.net/2024/04/20/JDgsuh2YQKz67Iv.gif)    ![image](https://s2.loli.net/2024/04/20/Zm73db1egkTCWKw.png)        
    To achieve the object trailing effect:   
 ```ruby
@@ -93,6 +98,7 @@ When playing the game, the player moves his hand following the cursor. When the 
 
 * ****☯️Special Effects Production****
 When the player completes the movement of his hand and triggers the cursor, the cursor dissipates and triggers the Tai Chi special effects animation. Set different special effect shapes and trigger effects according to the five elements attributes.
+
 ![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) 
  ![image](https://s2.loli.net/2024/04/22/sXJaDlgSeEr6KGq.gif) 
 
