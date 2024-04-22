@@ -132,5 +132,6 @@ We are in the planning stage, aiming to improve the teaching content of Tai Chi'
  ## License
  This project is licensed under the MIT License. For details, please see the [ License](https://github.com/ar-KungFu/ar-KungFu?tab=MIT-1-ov-file#) file.
 
-
+ ## Contact
+ For any questions or feedback, please contact us at 2362771326@qq.com.We look forward to hearing your valuable advice and support!
 
