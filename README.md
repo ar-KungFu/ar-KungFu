@@ -50,6 +50,7 @@
 ![image](https://s2.loli.net/2024/04/22/o7z5huGURgb8Z9I.gif)  ![image](https://s2.loli.net/2024/04/22/nOqSakQuw8jGsNY.gif) 
 
 * [☯️ **Holokit software development kit**](https://github.com/holokit/holokit-unity-sdk)
+  
 HoloKit is an optically clear mixed reality headset that transforms an iPhone into a powerful stereoscopic AR device. With the help of HoloKit Unity SDK, call its two core functions of stereoscopic rendering and hand tracking to develop martial arts AR experiences in Unity, which can be viewed through HoloKit head-mounted display devices.        
 Stereoscopic rendering is a core feature of the SDK that allows stereoscopic images to be displayed on the iPhone screen. By connecting your iPhone to HoloKit, you can get an immersive audio-visual experience in the world of AR martial arts. Leveraging the Apple Vision framework, the SDK detects the user's hand gestures. Together with the LiDAR depth sensor, the iPhone is used to track the 3D position of the user's hand to trigger Tai Chi special effects.
 
@@ -64,7 +65,8 @@ Stereoscopic rendering is a core feature of the SDK that allows stereoscopic ima
 
 
 * ☯️****Motion Capture****   
- ****Virtual Human Production****
+
+****Virtual Human Production****
 In the follow-up training mode, a virtual human is used to lead the training, and [Move One](https://www.move.ai/single-camera) is used to dynamically capture the martial arts master, and the high-standard and high-standard Tai Chi movements are used as the virtual human skeleton. Based on the motion, import it into blender for animation simulation, bake the animation and then import it into unity for development. Combining traditional design with modern design, design a virtual human image, and bind it with bones to realize virtual human Tai Chi training.
 
 ![image](https://s2.loli.net/2024/04/18/V7lNFJuZcYRx6eQ.gif) ![image](https://s2.loli.net/2024/04/18/PtHi5kChjq2KOpB.png)
@@ -74,10 +76,12 @@ In the follow-up training mode, a virtual human is used to lead the training, an
  
 
 * ****☯️Spatial Operations****   
+
 Depending on the motion capture model we are using, we have multiple anchor points set up in the game space. When the player makes hand movements during the game, we use spatial operations to identify the position of the hand, and trigger corresponding spatial effects based on changes in hand position. According to the size control of the virtual person, the spatial calculation of the physical position of the real person is realized, and the movement speed is controlled through hand guidance to achieve the operation and triggering of the game in the space.
 
 * ****☯️Art Production****   
-     ****Model Making****                                                                                                              
+                                                                                                          
+
 When playing the game, the player moves his hand following the cursor. When the cursor moves to a fixed point and stops, the position relationship between the player's hand and the cursor is calculated, OnCollisionEnter is used to trigger, and the nodes are connected to form a cursor dissipation animation.
 
 ![image](https://s2.loli.net/2024/04/20/JDgsuh2YQKz67Iv.gif)    ![image](https://s2.loli.net/2024/04/20/Zm73db1egkTCWKw.png)        
@@ -100,6 +104,7 @@ When playing the game, the player moves his hand following the cursor. When the 
 ```
 
 * ****☯️Special Effects Production****
+
 When the player completes the movement of his hand and triggers the cursor, the cursor dissipates and triggers the Tai Chi special effects animation. Set different special effect shapes and trigger effects according to the five elements attributes.
 
 ![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) 
@@ -113,9 +118,11 @@ When the player completes the movement of his hand and triggers the cursor, the 
    ![image](https://s2.loli.net/2024/04/23/RSIsr2jHGyeMzOm.gif)
 
 * ****☯️Pattern Development****   
+
 We are currently focusing on developing a virtual human follow-up mode to help users improve their skill levels. As the project develops, we plan to expand to a single-player monster-fighting mode and a multi-player battle mode. This will involve the design and implementation of game mechanics, including the development of enemy AI, combat systems, multiplayer online functions, etc.
 
 * ****☯️Content Production****   
+
 We are in the planning stage, aiming to improve the teaching content of Tai Chi's full-style boxing method in the future, and further produce special effects for related movements. This plan will involve in-depth research on Tai Chi and the systematic design of teaching content, as well as the pursuit of excellence in special effects production.
 
  ## RoadMap
