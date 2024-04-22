@@ -100,7 +100,8 @@ When playing the game, the player moves his hand following the cursor. When the 
 When the player completes the movement of his hand and triggers the cursor, the cursor dissipates and triggers the Tai Chi special effects animation. Set different special effect shapes and trigger effects according to the five elements attributes.
 
 ![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) 
- ![image](https://s2.loli.net/2024/04/22/sXJaDlgSeEr6KGq.gif) 
+
+![image](https://s2.loli.net/2024/04/22/sXJaDlgSeEr6KGq.gif) 
 
 
 
