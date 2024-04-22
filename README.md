@@ -6,7 +6,7 @@
 ## Game Introduction：《KungFu》
 
 
- ![image](https://img.shields.io/badge/AR-KungFu-red)  ![image](https://img.shields.io/badge/License-MIT-orange)  ![image](https://img.shields.io/badge/Rander-URP-purple) ![image](https://img.shields.io/badge/Rander-URP-yellow)
+ ![image](https://img.shields.io/badge/AR-KungFu-red)  ![image](https://img.shields.io/badge/License-MIT-orange)  ![image](https://img.shields.io/badge/Rander-URP-green) ![image](https://img.shields.io/badge/Unity-2022.3.17-blue)
  
 **☯️Project Introduction**
 
