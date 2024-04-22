@@ -129,6 +129,9 @@ We are in the planning stage, aiming to improve the teaching content of Tai Chi'
 
 ![image](https://s2.loli.net/2024/04/23/uYr8kvS7dtcbHqU.png)
 
+ ## Thanks
+ We are very grateful for the technical support given to us by the course this time, and thanks to our teachers, Tongzhou Yu, Yongru Lu,Botao Hu, for their technical guidance and direction planning!
+ 
  ## License
  This project is licensed under the MIT License. For details, please see the [ License](https://github.com/ar-KungFu/ar-KungFu?tab=MIT-1-ov-file#) file.
 
