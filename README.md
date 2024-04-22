@@ -84,7 +84,7 @@ Depending on the motion capture model we are using, we have multiple anchor poin
 
 When playing the game, the player moves his hand following the cursor. When the cursor moves to a fixed point and stops, the position relationship between the player's hand and the cursor is calculated, OnCollisionEnter is used to trigger, and the nodes are connected to form a cursor dissipation animation.
 
-![image](https://s2.loli.net/2024/04/20/JDgsuh2YQKz67Iv.gif)    ![image](https://s2.loli.net/2024/04/20/Zm73db1egkTCWKw.png)        
+![image](https://s2.loli.net/2024/04/23/3ATSjCOuoVM1XPa.gif)    ![image](https://s2.loli.net/2024/04/23/aVXKnEGyCO5oibW.gif)       
    To achieve the object trailing effect:   
 ```ruby
   for (int x = -1; ++x < pointCount;)
@@ -107,7 +107,7 @@ When playing the game, the player moves his hand following the cursor. When the 
 
 When the player completes the movement of his hand and triggers the cursor, the cursor dissipates and triggers the Tai Chi special effects animation. Set different special effect shapes and trigger effects according to the five elements attributes.
 
-![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) 
+![image](https://s2.loli.net/2024/04/20/xPsRL83rykzGfAn.gif) ![image](https://s2.loli.net/2024/04/20/t8Gcf7e3hEgMxAw.gif) ![image](https://s2.loli.net/2024/04/23/UHjX4RInmvdBNrW.gif)
 
 ![image](https://s2.loli.net/2024/04/22/sXJaDlgSeEr6KGq.gif) 
 
