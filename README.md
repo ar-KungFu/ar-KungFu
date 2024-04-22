@@ -125,7 +125,6 @@ Stereoscopic rendering is a core feature of the SDK that allows stereoscopic ima
 
 * ☯️****Motion Capture 动态捕捉****   
 
-****Virtual Human Production 虚拟人制作****   
 
 后续训练模式中，采用虚拟人引导训练，采用[Move One](https://www.move.ai/single-camera)动态捕捉武术高手， 采用高标准、高标准的太极拳动作作为虚拟人体骨骼。 基于运动，导入blender进行动画模拟，烘焙动画后导入unity进行开发。 将传统设计与现代设计相结合，设计出虚拟人形象，并与骨骼绑定，实现虚拟人太极拳训练。  
 
@@ -161,13 +160,13 @@ When the player completes the movement of his hand and triggers the cursor, the 
 
 ![image](https://s2.loli.net/2024/04/23/xdjXr5lOy8LTcCo.gif)   
 
-## ☯️ In Program——Multi-platform development and optimization 进行中—— 多平台开发与优化
+## ☯️ In Program——Multi-platform development and optimization 进行中—— 平台优化开发
 
 * ☯️****System Optimization 系统优化****
   
-我们正通过Xcode系统程序优化，调试代码、减少内存占用优化界面渲染、提高应用启动速度和响应时间，以及合理利系统资源等方法，旨在提高苹果设备上应用的性能和稳定性。  
+我们调试代码、减少内存占用优化界面渲染、提高应用启动速度和响应时间，以及合理利系统资源等方法，旨在提高苹果设备上应用的性能和稳定性。  
 
-We are optimizing Xcode system programs, debugging code, reducing memory usage, optimizing interface rendering, improving application startup speed and response time, and rationally utilizing system resources to improve the performance and stability of applications on Apple devices.  
+We aredebugging code, reducing memory usage, optimizing interface rendering, improving application startup speed and response time, and rationally utilizing system resources to improve the performance and stability of applications on Apple devices.  
 
 * ☯️****Multi-platform development 多平台开发****
 
@@ -190,15 +189,15 @@ We are exploring the use of spatial recognition technology to identify the groun
 
 * ****☯️Pattern Development 模式开发****
 
-我们目前专注于开发虚拟人跟练模式，以帮助用户提高技能才平。随着项目的发展，我们计划扩展至单人打怪模式和多人对战模式。这将涉及到游戏机制的设计和实现，包括敌人A1、战斗系统、多人联机功能等方面的开发。
+随着项目的发展，我们计划扩展至单人打怪模式和多人对战模式。这将涉及到游戏机制的设计和实现，包括敌人A1、战斗系统、多人联机功能等方面的开发。
 
-We are currently focusing on developing a virtual human follow-up mode to help users improve their skill levels. As the project develops, we plan to expand to a single-player monster-fighting mode and a multi-player battle mode. This will involve the design and implementation of game mechanics, including the development of enemy AI, combat systems, multiplayer online functions, etc.
+As the project develops, we plan to expand to a single-player monster-fighting mode and a multi-player battle mode. This will involve the design and implementation of game mechanics, including the development of enemy AI, combat systems, multiplayer online functions, etc.
 
 * ****☯️Content Production 内容制作****
 
-我们正处于规划阶段，旨在未来完善太极全式拳法教学内容并进一步制作相关动作的特效。这一计划将涉及对太极拳的深入研究和教学内容的系统化设计，以及对特效制作的精益求精
+未来完善太极全式拳法教学内容并进一步制作相关动作的特效，涉及对太极拳的深入研究和教学内容的系统化设计，以及对特效制作的精益求精
 
-We are in the planning stage, aiming to improve the teaching content of Tai Chi's full-style boxing method in the future, and further produce special effects for related movements. This plan will involve in-depth research on Tai Chi and the systematic design of teaching content, as well as the pursuit of excellence in special effects production.  
+In the future, improving the teaching content of Tai Chi's full-style boxing method and further producing special effects for related movements will involve in-depth research on Tai Chi and the systematic design of teaching content, as well as the pursuit of excellence in special effects production. 
 
 
 ## ☯️Under Consideration——Newchallenges 正在考虑中——新挑战  
