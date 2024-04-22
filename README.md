@@ -13,7 +13,7 @@
 ![image](https://s2.loli.net/2024/04/23/5Egxt2VObhd1uQK.gif)
 
 ## ☯️Video Sample
-[ **KungFu Concept Video**](https://youtu.be/a6mUjBHMFNM?feature=shared))
+* ## [ **KungFu Concept Video**](https://youtu.be/a6mUjBHMFNM?feature=shared)
 
 
 **KungFu** is a game that combines AR (augmented reality) and martial arts. It uses the Holokit module to achieve three-dimensional rendering and hand tracking. Based on the motion path obtained by the dynamic capture martial arts master, virtual reality is realized through modeling and bone binding. People lead the training, and spatial computing technology is used to realize the development of Tai Chi AR mode, including three modes: single-player follow-up training, single-player monster fighting and multi-player battle.
