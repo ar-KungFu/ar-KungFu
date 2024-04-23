@@ -77,21 +77,21 @@ In the chaos of the global magnetic storm, the Five Elements are out of balance,
 
 * **☯️Requirements 要求:**   
 
-This project aims to build an app runs on iOS devices.
+This project aims to build an app runs on iOS devices. 该项目旨在构建一个在 iOS 设备上运行的应用程序。
 
-1.Unity 2022.3.17f1c1
+1.Unity 2022.3.17f1c1 Unity的2022.3.17f1c1
 
 2.Xcode 15.2
 
-3.iPhone with lidar capability
+3.iPhone with lidar capability 具有激光雷达功能的iPhone
 
 * **☯️How to use 使用说明:**   
 
-1.Clone the project, open with Unity
+1.Clone the project, open with Unity 克隆项目，使用Unity打开
 
-2.Build this scene to an Xcode project
+2.Build this scene to an Xcode project 将此场景构建到 Xcode 项目中
 
-3.Open Xcode, build app to your mobile device  
+3.Open Xcode, build app to your mobile device  打开 Xcode，将应用程序构建到您的移动设备
 
 
 
