@@ -22,7 +22,7 @@
 
  ![image](https://s2.loli.net/2024/04/24/mPjW7vL3Nto2e86.gif) ![image](https://s2.loli.net/2024/04/24/hPkT8slVLgnCZSi.gif)   
 ![image](https://s2.loli.net/2024/04/24/pugzY3wbnJQa7i4.gif) ![image](https://s2.loli.net/2024/04/24/zj8nh9vQsabHVuD.gif)
-> 实时游戏体验
+> 实时游戏体验 Real-time gaming experience
 
    
 ## ☯️Project Introduction 项目介绍  
